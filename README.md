@@ -1,0 +1,2 @@
+# SSQ
+DeepBlue AI Project
